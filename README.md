@@ -4,7 +4,7 @@
 2. [heroku account](https://id.heroku.com/login)
 3. [VS Code](https://code.visualstudio.com/download)
 4. [Git Cli](https://git-scm.com/download/win)
-
+5. [avnyadav Git link](https://github.com/avnyadav/machine_learning_project)
 
 ## Creating conda environment
 ```
@@ -17,5 +17,9 @@ conda activate venv/
 OR
 ```
 conda activate venv
+```
+```
+pip install -r requirements.txt
+
 ```
 
