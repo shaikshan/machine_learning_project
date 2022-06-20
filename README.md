@@ -22,4 +22,8 @@ conda activate venv
 pip install -r requirements.txt
 
 ```
+To create CI/CD Pipeline in Heroku we need three things
 
+Heroku API =
+Heroku email = 
+Heroku app_name = ml-regress-app
