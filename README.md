@@ -27,3 +27,7 @@ To create CI/CD Pipeline in Heroku we need three things
 Heroku API =
 Heroku email = 
 Heroku app_name = ml-regress-app
+
+```
+pip install ipykernel (to run jupyter notebook)
+```
